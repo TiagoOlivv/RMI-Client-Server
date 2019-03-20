@@ -1,6 +1,6 @@
 # RMI-Client-Server
 
-Comunicação cliente/servidor em três camadas: 
+Comunicação cliente/servidor em três camadas: <br />
 (1) Camada Cliente, <br />
 (2) Camada de Aplicação, e <br />
 (3) Camada de Banco de Dados. 
