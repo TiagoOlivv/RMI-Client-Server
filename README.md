@@ -5,7 +5,7 @@ Comunicação cliente/servidor em três camadas: <br />
 (2) Camada de Aplicação, e <br />
 (3) Camada de Banco de Dados. 
 
-A camada 1 fica do lado do cliente, as camadas 2 e 3 ficam no servidor.
+A camada 1 fica do lado do cliente, as camadas 2 e 3 ficam no servidor.<br />
 
 o O usuário envia ao servidor um conjunto de números desordenados;
 <br />
