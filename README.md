@@ -1,4 +1,4 @@
-# RMI-Client-Server
+# Client-and=Server-with-RMI-Communication
 
 Comunicação cliente/servidor em três camadas: 
 <br />
